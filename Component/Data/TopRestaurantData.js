@@ -1,0 +1,57 @@
+export const TopRestaurant =[
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f6de3a8932bc042ca20efc3e20a2b865",
+        itemName:"WoW! Momo",
+        rating:"4. 35-40 mins",
+        address:"Maza Sonapur bhandup west",
+        city:"Bhandup",
+        offere:"70% Off UPTO $1",
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/03501c33ecb3a3105124441e541e6fe4",
+        itemName:"McDonald's",
+        rating:"4.5 35-40 mins",
+        address:"Burgers, Beverage",
+        city:"Kandivali East",
+        offere:"50% Off UPTO $5",
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f01666ac73626461d7455d9c24005cd4",
+        itemName:"McDonald's",
+        rating:"4.5 35-40 mins",
+        address:"Burgers, Beverage",
+        city:"Kandivali East",
+        offere:"60% Off UPTO $10",
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/63178e3e64d503a479f2a2048a474552",
+        itemName:"Subway ",
+        rating:"4. 35-40 mins",
+        address:"Maza Sonapur bhandup west",
+        city:"Bhandup",
+        offere:"10% Off UPTO $5",
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d4ecb6c79e17e6888221ed100ab3f81a",
+        itemName:"WoW! Momo",
+        rating:"4. 35-40 mins",
+        address:"Maza Sonapur bhandup west",
+        city:"Bhandup"
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/wm0hxww7t1duwfbwuwcj",
+        itemName:"McDonald's",
+        rating:"4.5 35-40 mins",
+        address:"Burgers, Beverage",
+        city:"Kandivali East",
+        city:"",
+    },
+    {
+        image:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/03501c33ecb3a3105124441e541e6fe4",
+        itemName:"McDonald's",
+        rating:"4.5 35-40 mins",
+        address:"Burgers, Beverage",
+        city:"Kandivali East",
+        offere:"50% Off UPTO $5",
+    },
+]
